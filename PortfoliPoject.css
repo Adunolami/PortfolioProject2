@@ -25,9 +25,7 @@ h2{
     text-align: center;
 
 }
-
-.A > h2{
-    color:black;
-    
+#headingOne{
+    justify-content: center;
 }
     
