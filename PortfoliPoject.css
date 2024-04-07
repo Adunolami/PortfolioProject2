@@ -1,0 +1,33 @@
+.image{
+    background-image: url(./td.png);
+    background-size: cover;
+    background-position: center;
+    padding: 100px 0; 
+    color: #fff; 
+    text-align: center; 
+}
+h1{
+    font-size:xx-large;
+    padding-bottom: 4rem;
+}
+
+h2{
+    font-size:small;
+    padding-bottom: 4rem;
+}
+
+.A{
+    background-image: url(./maldives3.png);
+    background-size: cover;
+    background-position: center;
+    padding: 100px 0; 
+    color: #fff; 
+    text-align: center;
+
+}
+
+.A > h2{
+    color:black;
+    
+}
+    
